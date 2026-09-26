@@ -120,7 +120,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-    <img width="433" height="683" alt="image" src="https://github.com/user-attachments/assets/b3cc949e-41d7-4252-b67b-f8419096f73d" />
-
+<img width="433" height="683" alt="screenshot 2026-09-26 at 11 54 06" src="https://github.com/user-attachments/assets/f01a1901-a4ef-4467-9b31-84dbdf91dd68" />
